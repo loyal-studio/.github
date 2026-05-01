@@ -12,7 +12,12 @@ As indie developers ourselves, we believe in giving back to other developers by 
 
 ## Our Games
 
-| <a href="https://store.steampowered.com/app/3702380/Daisen/"><img src="daisen-logo-bg.jpg" width="300"></a> | **Daisen**<br>Daisen is a Fast-Paced FPS where movement is centered on slides and momentum, and resource management is pushed to the absolute. There are no magazines: Ammo Generator technology allows for non-stop fire until your weapon glows red. Your cure is Essence, which you literally beat out of anomalies in the heat of battle.<br><br>[**Play Daisen on Steam**](https://store.steampowered.com/app/3702380/Daisen/) |
-|---|---|
+<p align="center">
+  <a href="https://store.steampowered.com/app/3702380/Daisen/">
+    <img src="daisen-logo-bg.jpg" width="300" alt="Daisen Logo">
+  </a>
+  <br>
+  <a href="https://store.steampowered.com/app/3702380/Daisen/"><strong>Play Daisen on Steam</strong></a>
+</p>
 
 ---
