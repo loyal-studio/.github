@@ -12,7 +12,7 @@ As indie developers ourselves, we believe in giving back to other developers by 
 
 ## Our Games
 
-| <a href="https://store.steampowered.com/app/3702380/Daisen/"><img src="daisen-logo-bg.jpg" width="300"></a> | **Daisen**<br>A fast-paced FPS with stylish action elements. Play as Emilia Svitanko, a mercenary closing rifts to another world. Master the "dance of the gun and the needle" where weapons overheat and healing is fueled by your kills.<br><br>[**Play Daisen on Steam**](https://store.steampowered.com/app/3702380/Daisen/) |
+| <a href="https://store.steampowered.com/app/3702380/Daisen/"><img src="daisen-logo-bg.jpg" width="300"></a> | **Daisen**<br>Daisen is a Fast-Paced FPS where movement is centered on slides and momentum, and resource management is pushed to the absolute. There are no magazines: Ammo Generator technology allows for non-stop fire until your weapon glows red. Your cure is Essence, which you literally beat out of anomalies in the heat of battle.<br><br>[**Play Daisen on Steam**](https://store.steampowered.com/app/3702380/Daisen/) |
 |---|---|
 
 ---
