@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="loyalstudio-banner.jpg" alt="LOYAL Studio Open Source" width="100%">
+  <img src="loyalstudio-banner.png" alt="LOYAL Studio Open Source" width="100%">
 </p>
 
 ## Get Involved
